@@ -329,7 +329,7 @@ h3.my-profession {
 .home .home-img img {
   height: 200px;
   width: 200px;
-  border-radius: 100px;
+  border-radius: 150px;
   margin: auto;
   box-shadow: 8px 10px 20px -5px var(--skin-color);
 }
